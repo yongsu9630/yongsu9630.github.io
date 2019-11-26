@@ -8,17 +8,20 @@ featured_comments:
   - url: 'https://www.reddit.com/r/Jekyll/comments/6258ln/welcome_to_solana/dfkw5k2/'
 ---
 
-GitHub Pages uses a Markdown engine called <dfn>kramdown</dfn> for formatting text posts. kramdown is a superset of Markdown, meaning:
+방용수
 
-1. anything that’s valid Markdown is also valid kramdown, and
-2. it provides and strictly specifies a number of features that are not available in Markdown.[^1] 
 
-Consult the official [kramdown syntax reference][kds] for an exhaustive list of features and how to use them.
+yongsu9630@daum.net
+
+1. 강원대학교 미디어공학전공
+2. email : yongsu9630@daum.net
+3. 강원대학교 28대 "울림" 총학생회 복지부장
+
+m.
 
 ---
 
-[^1]:
-    Such as footnotes.
+
 
 [kd]: http://kramdown.gettalong.org/
 [rd]: https://github.com/davidfstr/rdiscount
