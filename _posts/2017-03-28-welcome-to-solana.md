@@ -1,6 +1,6 @@
 ---
-title: Welcome to Solana
-teaser: These sample posts are provided as a template for creating your own content.
+title: 방용수의 홈페이지에 오신것을 환영합니다.
+teaser: 제 간단한 소개가 담긴 페이지입니다.
 category: intro
 tags: [markdown, workflow, foss]
 reddit_post: 'https://www.reddit.com/r/Jekyll/comments/6258ln/welcome_to_solana/'
